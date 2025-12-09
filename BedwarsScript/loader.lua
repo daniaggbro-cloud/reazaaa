@@ -26,4 +26,5 @@ if not BedwarsPlaceIds[PlaceId] then
 end
 
 -- Загружаем главный скрипт
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_REPO/BedwarsScript/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/daniaggbro-cloud/BedwarsScript/main/main.lua"))()
+
